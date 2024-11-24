@@ -42,7 +42,7 @@ Version : 48738
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:Log(Object)
 
-UnloadTime: 2.280100 ms
+UnloadTime: 1.933200 ms
 Missing GameSettingsManager Instance!
 UnityEngine.Logger:Log(LogType, Object)
 UnityEngine.Debug:LogError(Object)
